@@ -1,0 +1,1 @@
+["neen", "mua", "volkswagen polo", "hay", "ford", "ecosport", "?"]

@@ -1,0 +1,1 @@
+["smartphone", "pin", "khurng", "gias", "rer"]

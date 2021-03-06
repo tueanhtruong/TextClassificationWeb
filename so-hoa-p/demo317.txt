@@ -1,0 +1,8 @@
+Title: iPhone, iPad dính lỗ hổng nghiêm trọng - Link: https://vnexpress.net/iphone-ipad-dinh-lo-hong-nghiem-trong-4227506.html
+subData: iPhone, iPad dính lỗ hổng nghiêm trọng 
+Trên website hỗ trợ, Apple cho biết có ba lỗi bảo mật iOS "có thể đã bị khai thác một cách tích cực". Tuy nhiên, công ty nhấn mạnh "sẽ không tiết lộ, thảo luận hoặc xác nhận các vấn đề bảo mật cho đến khi điều tra xong, cũng như các bản vá được phát hành".
+Theo Apple, có hai vấn đề bảo mật bắt nguồn từ WebKit - một công cụ mã nguồn mở được sử dụng trong trình duyệt Safari và iOS. "Kẻ tấn công có thể thực hiện nhiều mã lệnh tùy ý", Apple viết. Bên cạnh đó, Kernel Framework - một nền tảng cung cấp API và hỗ trợ các trình điều khiển thiết bị dành cho nhà phát triển - cũng bị ảnh hưởng.
+Apple tiết lộ công ty đã được một nhà nghiên cứu bảo mật ẩn danh báo cáo về các lỗ hổng. Tuy nhiên, "Quả táo" không đề cập chi tiết.
+Hôm 26/1, Apple đã phát hành phiên bản iOS 14.4, tập trung sửa các lỗi như độ trễ bàn phím, camera đọc được các mã QR kích thước nhỏ, cũng như tối ưu hiệu suất và nâng cao độ bảo mật. Phiên bản này không được bổ sung tính năng mới đáng chú ý nào.
+Apple luôn tự hào về khả năng bảo mật trên iOS và hiếm khi thừa nhận nền tảng của mình gặp sự cố. Tuy nhiên, không ít lần hệ điều hành này bị phát hiện lỗi. Năm ngoái, các nhà nghiên cứu của Google đã tìm thấy lỗ hổng cho phép kẻ xấu xâm nhập iPhone từ xa dễ dàng. Một lỗi khác trong iOS 13 làm lộ danh bạ người dùng mà không cần dùng đến mật khẩu hoặc mở khóa bằng vân tay/Face ID. Trong hầu hết trường hợp, Apple chọn cách âm thầm sửa.
+Như Phúc (theo CNN)

@@ -1,0 +1,1 @@
+["neen", "chojn", "loosp", "michelin", "hay", "continental", "?", "neesu", "chojn", "loosp", "xe", "cho", "sedan", "vaf", "suv", "thif", "cos", "khasc", "nhau", "khoong"]

@@ -1,0 +1,8 @@
+Title: Bài toán diện tích trong đề thi IMSO 2021 - Link: https://vnexpress.net/bai-toan-dien-tich-trong-de-thi-imso-2021-4232943.html
+subData: Bài toán diện tích trong đề thi IMSO 2021 
+IMSO, XIMC, APMOPS là ba cuộc thi Olympic Toán quốc tế có thương hiệu tốt nhất với khối học sinh THCS. Cùng với IMO, các cuộc thi IMSO, XIMC được tổ chức luân phiên giữa các quốc gia thành viên, đề thi được tuyển chọn từ đề nghị của các quốc gia và học sinh tham dự không phải đóng kinh phí.
+Đề thi IMSO và XIMC có nội dung và độ khó đứng đầu các cuộc thi Olympic Toán cùng độ tuổi 11-13. Dưới đây là bài toán diện tích trong phần trắc nghiệm của đề IMSO 2021 mà chỉ 1% thí sinh dự thi tìm ra đáp số đúng.
+Đề bài:
+Trong hình vẽ bên dưới, STM và OUI là các tam giác vuông nằm bên trong hình chữ nhật IMSO sao cho điểm U nằm trên đoạn thẳng TM.
+Biết ST = 21 cm, TM = 72 cm và OU = 45 cm, tính diện tích hình chữ nhật IMSO?
+Trần Phương

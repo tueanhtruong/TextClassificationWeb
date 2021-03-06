@@ -1,0 +1,14 @@
+Title: Loại camera nào giúp nhận diện kẻ gian tốt hơn? - Link: https://vnexpress.net/loai-camera-nao-giup-nhan-dien-ke-gian-tot-hon-4217233.html
+subData: Loại camera nào giúp nhận diện kẻ gian tốt hơn? 
+Trước hết, cần phân biệt ba loại camera an ninh: loại có dây (kết nối với nguồn điện và Internet bằng dây), loại không dây (kết nối với nguồn điện bằng dây, kết nối mạng bằng Wifi), và camera không dây chạy pin (nối mạng bằng Wifi, nguồn điện lấy từ pin).
+Hệ thống camera an ninh có dây bao gồm đầu ghi video ra định dạng số cùng nhiều camera (thường từ bốn tới 16). Loại này sẽ ghi hình ra ổ lưu trữ và có thể được nối mạng Internet để chủ nhân theo dõi từ xa. Các camera trong cùng mạng lưới không cần cắm vào ổ điện riêng rẽ vì chúng lấy điện từ nguồn trung tâm.
+Hệ thống camera không dây (hay còn gọi là camera wifi) truyền tải video qua mạng wifi nhưng vẫn được nối với nguồn điện bằng dây. Hệ thống camera không dây thường sẽ lưu trữ video vào máy chủ ảo trên mạng nên chủ nhân có thể tiếp cận từ bất cứ đâu, nhưng vẫn có loại lưu video vào bộ nhớ của từng camera.
+Một số hệ thống camera không dây lấy điện từ pin và hoàn toàn không sử dụng dây. Loại này sẽ được sạc bằng dây cáp USB hoặc dùng pin có thể tháo rời để sạc.
+Mỗi loại camera đều có ưu, nhược điểm riêng. Ưu điểm lớn nhất của camera có dây là độ tin cậy. Cả hệ thống vẫn sẽ ghi hình dù không có kết nối Internet nên chủ nhân sẽ không phải lo tín hiệu wifi kém hoặc pin yếu.
+Hệ thống camera có dây sẽ bảo mật hơn vì ít khả năng bị hack hoặc chặn. Tuy nhiên, loại camera này thường mất thời gian lắp đặt hơn.
+Ngược lại, ưu điểm của hệ thống camera không dây là sự linh hoạt. Chủ nhân có thể đặt máy quay ở bất cứ đâu trong tầm tín hiệu wifi và ổ điện (với loại không có pin), đồng thời không cần khoan đục tường. Việc lắp thêm camera cũng không cần tốn nhiều công sức vì chủ nhân chỉ cần cắm điện và nối mạng wifi.
+Vì hầu hết camera không dây lưu trữ dữ liệu trên máy chủ ảo, bạn có thể lưu trữ video trong thời gian lâu hơn so với hệ thống có dây (thường là 15 ngày). Một số dịch vụ máy chủ ảo cho phép lưu trữ dữ liệu tới 60 ngày, đổi lại bạn cần trả phí.
+Ngoài ra, các ứng dụng và phần mềm đi kèm camera không dây thường thân thiện hơn với người dùng và có thể được điều khiển bằng trợ lý ảo như Google Assistant hoặc Alexa.
+Để xác định chọn hệ thống camera nào, bạn cần cân nhắc một số tiêu chí. Ví dụ, hệ thống camera có dây sẽ thích hợp với người sở hữu nhà và xác định ở lâu dài, không ngại khoan đục tường, quan tâm độ tin cậy của hệ thống, và sẵn sàng đầu tư khoản tiền tương đối.
+Ngược lại, hệ thống camera không dây phù hợp với người đi thuê nhà và thường di chuyển, không muốn bỏ nhiều tiền một lúc, không thích lắp đặt phức tạp hoặc không được phép phá tường.
+Quốc Đạt (Theo The Spruce, US News)

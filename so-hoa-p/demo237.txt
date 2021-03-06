@@ -1,0 +1,9 @@
+Title: Facebook Messenger lỗi - Link: https://vnexpress.net/facebook-messenger-loi-4231367.html
+subData: Facebook Messenger lỗi 
+Messenger gặp lỗi trên tất cả trình duyệt trong khoảng 30 phút. Người dùng vẫn có thể nhắn tin bình thường trên ứng dụng di động. Khi vào trình duyệt, trang web không hiển thị nội dung, chỉ có thông báo "Người dùng Facebook".
+Trên Downdetector, trang theo dõi sự cố Internet, số lượt phản ánh tăng vọt vào khoảng 8h. Khu vực ảnh hưởng được ghi nhận ở Mỹ và một số quốc gia châu Á. 45% người dùng không kết nối được với máy chủ, 33% không nhận được tin nhắn, số còn lại gặp sự cố về đăng nhập.
+"Lúc đầu mình nghĩ do lỗi mạng. Nhưng sau đó vẫn vào được Facebook và các trang web bình thường. Mình thử tắt đi, vào lại mấy lần cũng không được, thử các trình duyệt khác vẫn bị lỗi tương tự", Hoàng Anh, nhân viên văn phòng tại TP HCM nói.
+Sau khoảng 30 phút bị lỗi, người dùng bắt đầu truy cập lại Messenger bình thường, không cần đăng nhập lại tài khoản.
+Theo ghi nhận của Downdetector, trong vòng chưa đầy hai tháng, Messenger đã ba lần gặp lỗi. Lần gần nhất vào ngày 11/1, người dùng cũng gặp lỗi tương tự khi không thể đăng nhập, gửi tin nhắn. Trước đó vào ngày 10/12, nền tảng bị lỗi trên cả web lẫn ứng dụng di động.
+Messenger là một trong những ứng dụng chat phổ biến nhất tại Việt Nam. Thống kê trên các kho ứng dụng của iOS và Android, Messenger liên tục nằm trong top những ứng dụng được tải về nhiều nhất.
+Khương Nha

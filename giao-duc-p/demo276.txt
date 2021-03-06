@@ -1,0 +1,6 @@
+Title: Bài toán dành cho học sinh giỏi ở Trung Quốc - Link: https://vnexpress.net/bai-toan-danh-cho-hoc-sinh-gioi-o-trung-quoc-4219494.html
+subData: Bài toán dành cho học sinh giỏi ở Trung Quốc 
+Đề bài:
+Một hình vuông cạnh 10 cm chứa một hình tròn tiếp xúc với 4 cạnh của hình vuông.
+Tính diện tích phần tô đậm trong hình vẽ dưới đây (phần giao của hình tròn này với hai cung tròn tâm là hai đỉnh hình vuông bán kính 10 cm).
+Trần Phương

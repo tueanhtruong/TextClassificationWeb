@@ -1,0 +1,6 @@
+Title: Camera thông minh đầu tiên chạy Harmony OS của Huawei - Link: https://vnexpress.net/camera-thong-minh-dau-tien-chay-harmony-os-cua-huawei-4216456.html
+subData: Camera thông minh đầu tiên chạy Harmony OS của Huawei 
+Huawei Smart Camera Pro là model đầu tiên trong dòng sản phẩm IoT chạy hệ điều hành Harmony OS. Máy sẽ được bán từ ngày 16/1 tới với giá 289 tệ (1 triệu đồng) cho bản 32 GB và 389 tệ (1,4 triệu đồng) cho bản 64 GB.
+Bốn đặc điểm nổi bật gồm hệ thống phát hiện chuyển động AI tích hợp sử dụng trên thiết bị (thay vì trên cloud như các sản phẩm khác), độ nét 2K, tích hợp bộ nhớ trong và chạy hệ điều hành riêng. Sản phẩm có thể quay 360 độ để theo dõi chuyển động của trẻ em trong phòng. Camera cũng có thể kết nối với màn hình ở phòng khách để người lớn xem liên tục.
+Người dùng cũng có thể thực hiện cuộc gọi video với thao tác nút bấm và hỗ trợ NFC. Bộ nhớ trong là loại eMMC cho tuổi thọ đọc/ghi dữ liệu cao gấp 5 lần so với thẻ nhớ SD trong khi tốc độ truyền dữ liệu cao gấp 10 lần.
+HiLink SDK tích hợp bên trong Huawei Smart Camera Pro đạt chứng chỉ bảo mật cao nhất trong lĩnh vực thiết bị IoT. Người dùng cũng có thể xem và lưu trữ, gọi điện camera từ xa nhờ ứng dụng cài đặt trên Android hoặc iOS.

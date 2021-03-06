@@ -1,0 +1,19 @@
+Title: Microsoft lần đầu bán máy tính Surface tại Việt Nam - Link: https://vnexpress.net/microsoft-lan-dau-ban-may-tinh-surface-tai-viet-nam-4223799.html
+subData: Microsoft lần đầu bán máy tính Surface tại Việt Nam 
+Ba mẫu máy đầu tiên được Microsoft đưa về là Surface Pro 7+, Surface Laptop Go và Surface Go 2. Trong đó, Surface Laptop Go và Surface Go 2 bắt đầu cho đặt hàng từ ngày 20/1 còn Surface Pro 7+ từ 8/2, thông qua hai đại lý ủy quyền CMC TSSG và FPT Information Systems và dành cho doanh nghiệp và tổ chức giáo dục.
+Surface Pro 7+
+Surface Pro 7+ trang bị màn hình PixelSense 12,3 inch độ phân giải 2.736 x 1.824 pixel. Sản phẩm sử dụng bộ xử lý Intel Core thế hệ thứ 11 với hiệu năng nhanh hơn 2,1 lần và thời lượng pin dài 15 giờ so với thế hệ trước. Máy có thiết kế nhỏ gọn và mỏng nhẹ, khoảng gần 800 gram.
+Với cổng USB-A và USB-C, Surface Pro 7+ có thể kết nối với màn hình ngoài hoặc thiết bị ngoại vi. Pro 7+ tích hợp camera trước và sau với video chuẩn HD 1080p, loa Dolby Atmos và micro kép Studio Mics.
+Surface Pro 7+ cũng là mẫu Surface đầu tiên được trang bị tính năng Bảo mật Phần cứng Nâng cao của Windows. Các thiết bị được quản lý và cập nhật thông qua đám mây ngay từ lần khởi động đầu tiên và trong suốt vòng đời sản phẩm. Máy sử dụng ổ SSD có thể tháo rời, kết hợp với tính năng bảo vệ BitLocker của Microsoft, bảo vệ dữ liệu nhạy cảm tốt hơn khi có vấn đề xảy ra với thiết bị.
+Surface Pro 7+ sẽ được bán tại Việt Nam với giá 33 triệu đồng.
+Surface Laptop Go
+Surface Laptop Go có màn hình cảm ứng PixelSense 12,4 inch, bàn di chuột lớn và bàn phím đầy đủ, giúp người dùng điều hướng chính xác và thoải mái. Đúng với tên gọi "Go", máy có thiết kế đẹp, tinh gọn, linh động với vỏ kim loại bền và nhẹ.
+Surface Laptop Go tích hợp vi xử lý Intel Core i5 thế hệ thứ 10 với 8 GB RAM và bộ nhớ SSD 128 GB. Sản phẩm được trang bị nút nguồn vân tay giúp người dùng đăng nhập nhanh chóng và an toàn với một lần chạm (One Touch) thông qua Windows Hello. Với thời lượng pin 13 giờ cùng tính năng sạc nhanh, laptop có thể duy trì hoạt động trong một ngày.
+Surface Laptop Go có camera trước HD 720p và Studio Mics, loa Omnisonic cùng công nghệ âm thanh Dolby Audio. Thiết bị được trang bị cổng USB-A và USB-C, giắc cắm âm thanh và Surface connector.
+Surface Laptop Go có giá 20,9 triệu đồng.
+Surface Go 2
+Surface Go 2 mỏng nhẹ với màn hình PixelSense 10,5 inch, sử dụng chip Intel Core M thế hệ thứ 8. Thiết bị cũng được trang bị Studio Mics cải thiện độ rõ nét của âm thanh và giảm tạp âm xung quanh cho các cuộc họp trực tuyến. Camera trước 5 megapixel, camera sau kết nối với ứng dụng Camera, cho phép người dùng scan tài liệu và ghi chú trong cuộc họp. Surface Go 2 hoạt động với bút Surface Pen, hỗ trợ ghi chú viết tay, vẽ sơ đồ, đánh dấu tài liệu hay làm các phép tính.
+Surface Go 2 được bán giá 17,99 triệu đồng.
+Phụ kiện Surface
+Ngoài ba mẫu máy tính, Microsoft cũng phân phối một số phụ kiện sau tại Việt Nam: bàn phím Signature Type Cover thế hệ mới (3,34 triệu đồng), chuột Arc Mouse (2,35 triệu đồng), bút Surface Pen (2,33 triệu đồng) và bàn phím Type Cover (2,599 triệu đồng).
+Ngoài ra, với bộ Surface Dock 2 giá 6,7 triệu đồng, Surface có thể trở thành một máy tính để bàn với nguồn điện sạc 199W, cùng cổng USB-C, hỗ trợ màn hình 4K kép ở 60Hz.

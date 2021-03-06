@@ -1,0 +1,8 @@
+Title: Apple thử công nghệ tản nhiệt buồng hơi cho iPhone - Link: https://vnexpress.net/apple-thu-cong-nghe-tan-nhiet-buong-hoi-cho-iphone-4221874.html
+subData: Apple thử công nghệ tản nhiệt buồng hơi cho iPhone 
+Theo nhà phân tích Ming-Chi Kuo của hãng TF International Securities, những khảo sát gần đây cho thấy Apple nhiều khả năng ứng dụng công nghệ tản nhiệt buồng hơi vào iPhone tiếp theo, nhưng hiện còn quá sớm để xác định hệ thống này có sẵn sàng triển khai trong năm 2021 hay không.
+Tản nhiệt buồng hơi (vapor chamber) sử dụng hiệu ứng đối lưu. Chất lỏng, thường là nước, được nạp vào một khoang kín với áp suất thấp. Nhiệt lượng từ linh kiện sẽ làm chất lỏng này bốc hơi, lan tỏa đến những khu vực có nhiệt độ thấp trong buồng hơi. Lượng nhiệt này được giải phóng ra môi trường nhờ các lá tản nhiệt hoặc miếng kim loại lớn, khiến hơi trở lại dạng lỏng và chảy ngược về vị trí ban đầu.
+Apple đã nghiên cứu hệ thống tản nhiệt buồng hơi từ lâu, nhưng các giải pháp ban đầu không đáp ứng tiêu chuẩn của hãng.
+"Lý do iPhone chưa ứng dụng tản nhiệt buồng hơi là bởi kết quả thử nghiệm độ tin cậy của chúng không đạt yêu cầu cao do Apple đưa ra. Tuy nhiên, chúng tôi vẫn lạc quan về lộ trình cải thiện độ tin cậy của công nghệ này và dự đoán những mẫu iPhone cao cấp có thể được trang bị công nghệ tản nhiệt này trong tương lai gần", Kuo cho hay.
+Nhà phân tích này tin iPhone sẽ cần tản nhiệt buồng hơi để đáp ứng tốc độ ứng dụng công nghệ 5G và nhiệt lượng ngày càng cao của CPU đời mới. iPhone 12 nóng lên rất nhanh khi kết nối mạng 5G. Cải tiến về hệ thống tản nhiệt sẽ giúp Apple tiếp tục tăng cường năng lực tính toán và tuổi thọ thiết bị, duy trì lợi thế trước các đối thủ cạnh tranh.
+Điệp Anh (theo Apple Insider)

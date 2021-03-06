@@ -1,0 +1,4 @@
+Title: Thách thức từ bài toán diện tích lớp 7 - Link: https://vnexpress.net/thach-thuc-tu-bai-toan-dien-tich-lop-7-4214748.html
+subData: Thách thức từ bài toán diện tích lớp 7 
+Đề bài: Bên trong nửa hình tròn đường kính AB = 20 cm, vẽ hai hình vuông CHKD và NKFE tùy ý sao cho C và E nằm trên nửa đường tròn và CH, KD, KN, EF cùng vuông góc với AB. Tính tổng diện tích của hai hình vuông CHKD và NKFE.
+Trần Phương

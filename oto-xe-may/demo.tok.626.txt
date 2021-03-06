@@ -1,0 +1,1 @@
+["chevrolet", "cruze", "gias", "trieeju", "neen", "mua", "?"]
