@@ -2,13 +2,6 @@ from pyvi import ViTokenizer, ViUtils, ViPosTagger
 import re
 import os
 import json
-# a = [1, 2, 3]
-# with open('test.txt', 'w') as f:
-#     f.write(json.dumps(a))
-
-# #Now read the file back into a Python list object
-# with open('test.txt', 'r') as f:
-#     a = json.loads(f.read())
 
 
 def no_accent_vietnamese(s):
@@ -117,7 +110,7 @@ def no_accent_vietnamese(s):
     # s = re.sub(u'[ìíịỉĩ]', 'i', s)
     s = re.sub(u'[ì]', 'if', s)
     s = re.sub(u'[í]', 'is', s)
-    s = re.sub(u'[ị]', 'ịj', s)
+    s = re.sub(u'[ị]', 'ij', s)
     s = re.sub(u'[ỉ]', 'ir', s)
     s = re.sub(u'[ĩ]', 'ix', s)
 
@@ -227,9 +220,9 @@ if __name__ == '__main__':
                         else:
                             Adj[te] = 1
 
-                # with open("./"+kindTok[i]+"/demo.tok."+str(j) +
-                #           ".txt", 'w') as f:
-                #     f.write(json.dumps(arrText))
+                with open("./"+kindTok[i]+"/demo.tok."+str(j) +
+                          ".txt", 'w') as f:
+                    f.write(json.dumps(arrText))
                 j += 1
             except:
                 break
