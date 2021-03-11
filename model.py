@@ -80,10 +80,34 @@ for i in range(0,13):
     matdo[categories[i]]=dem_
     tong_ += dem_
 tbc_ = tong_ // 13
-
+maax_=0
+vt_=0
 print('TBC la: {0}'.format(tbc_))
 for i in range(0,13):
     if(matdo[categories[i]]>tbc_):
-        print('Mat do cua {0} trong paper la: {1}'.format(categories[i],matdo[categories[i]]))
-            
+        # print('Mat do cua {0} trong paper la: {1}'.format(categories[i],matdo[categories[i]]))
+        if(matdo[categories[i]]>maax_):
+            maax_ = matdo[categories[i]]
+            vt_ = i
+maax_=0
+vt1_=-1
+for i in range(0,13):
+    if(i==vt_):
+        continue
+    if(matdo[categories[i]]>tbc_):
+        # print('Mat do cua {0} trong paper la: {1}'.format(categories[i],matdo[categories[i]]))
+        if(matdo[categories[i]]>maax_):
+            maax_ = matdo[categories[i]]
+            vt1_ = i
+        
+# print('Mat do cua {0} trong paper la: {1}'.format(categories[vt_],matdo[categories[vt_]]))
+# if (vt1_!= -1):
+#     print('Mat do cua {0} trong paper la: {1}'.format(categories[vt1_],matdo[categories[vt1_]]))
+
+tong_sum = 2*matdo[categories[vt_]]-matdo[categories[vt1_]]
+tile1 = float(matdo[categories[vt_]]/tong_sum)
+tile2 = float(1-tile1)
+print('Hang muc cua bai bao la: {0} chiem {1} %'.format(categories[vt_],tile1*100))
+if(vt1_!=-1):
+    print('Hang muc cua bai bao la: {0} chiem {1} %'.format(categories[vt1_],tile2*100))
 
