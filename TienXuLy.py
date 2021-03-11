@@ -168,6 +168,16 @@ def no_accent_vietnamese(s):
     return s
 
 
+def fromTextToList(test):
+    test = re.sub(u'[\'\"-:]', '', test)
+    test = re.sub(u'subData', '', test)
+    b1 = ViTokenizer.tokenize(test)
+    (b1, POS) = ViPosTagger.postagging(b1)
+    arrText = [no_accent_vietnamese(re.sub(u'_', ' ', s)).lower()
+               for s in b1]
+    return arrText
+
+
 if __name__ == '__main__':
     kind = ['thoi-su-p', 'the-gioi-p', 'kinh-doanh-p',
             'giai-tri-p', 'the-thao-p', 'phap-luat-p', 'giao-duc-p', 'suc-khoe-p', 'doi-song-p', 'du-lich-p', 'khoa-hoc-p', 'so-hoa-p', 'oto-xe-may-p', ]
