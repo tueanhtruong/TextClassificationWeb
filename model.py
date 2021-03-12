@@ -16,7 +16,7 @@ def classific(path):
     for i in range(0, len(categories)):
         # print(categories[i])
         tmp = categories[i]
-        link = "d:/HK2N4/LapTrinhMangNC/crawl/"+tmp+"/aNounList.txt"
+        link = "G:/CK_LTM/TextClassificationWeb/"+tmp+"/aNounList.txt"
         g = open(link, "r")
         l1 = g.read()
         l1 = l1.replace("{", "")

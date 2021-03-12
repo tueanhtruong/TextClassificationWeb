@@ -8,7 +8,7 @@ from model import classific
 
 def textFromUrl(url):
     article = NewsPlease.from_url(url)
-    return article.description + '\n'+article.maintext
+    return article.title+'\n'+ article.description + '\n'+article.maintext
 
 
 if __name__ == "__main__":
