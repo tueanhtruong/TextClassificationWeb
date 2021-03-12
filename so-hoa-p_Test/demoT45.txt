@@ -1,0 +1,9 @@
+Title: Siri có thể mô phỏng tiếng động vật kêu - Link: https://vnexpress.net/siri-co-the-mo-phong-tieng-dong-vat-keu-4206573.html
+subData: Siri có thể mô phỏng tiếng động vật kêu 
+Chẳng hạn, khi hỏi Hey Siri, what does a duck sound like? (Này Siri, con vịt kêu như thế nào?). Lúc này, Siri sẽ phát ra tiếng kêu của con vịt, đồng thời hiển thị hình ảnh con vật này và thông tin liên quan từ Wikipedia. Khi hỏi về các con vật khác, Siri sẽ trả lời bằng tiếng kêu tương ứng.
+Để sử dụng, người dùng iPhone cần cập nhật lên phiên bản iOS 14.3 mới nhất. Theo Apple, bên cạnh mô phỏng tiếng các loài động vật, Siri có thể miêu tả hàng trăm tùy chọn âm thanh khác từ các loại xe, nhạc cụ...
+CNBC đã thử nghiệm bằng câu hỏi What does the fox say? (tên một bài hát). Sau đó, bài hát này xuất hiện trong kết quả trả về. Nhưng nếu hỏi What does a fox sound like?, âm thanh tiếng kêu của con cáo vang lên. Trang này nhận xét âm thanh phát ra từ Siri giống âm thanh thật, khác xa với sự cường điệu thường thấy trên phim hoạt hình".
+Việc Apple bổ sung tính năng mới cho Siri có thể giúp trợ lý ảo này thân thiện hơn, đặc biệt với trẻ em. Trước đây, nhiều bậc phụ huynh dùng trợ lý ảo này để kể truyện cười, đọc thơ, yêu cầu bài hát... cho trẻ em.
+Siri hiện hỗ trợ 37 ngôn ngữ, nhưng chưa có tiếng Việt. Hồi tháng 9, nguồn tin từ Digital Trends tiết lộ đang tuyển dụng các chuyên gia về machine learning và AI để "phân tích cho Siri" với yêu cầu phải thông thạo những ngôn ngữ chưa có trên trợ lý ảo này, trong đó có tiếng Việt.
+Tính năng mới trên Siri là một phần trong bản cập nhật iOS 14.3. Trên phiên bản này, Apple đã bổ sung thêm tính năng dán nhãn quyền riêng tư cho ứng dụng trên App Store, dịch vụ tập luyện thể thao Fitness+ và sửa một số lỗi liên quan đến lỗi thông báo tin nhắn SMS.
+Bảo Lâm tổng hợp

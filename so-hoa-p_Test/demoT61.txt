@@ -1,0 +1,11 @@
+Title: Người dùng iPhone vẫn bị lỗi tin nhắn - Link: https://vnexpress.net/nguoi-dung-iphone-van-bi-loi-tin-nhan-4205837.html
+subData: Người dùng iPhone vẫn bị lỗi tin nhắn 
+Trên trang Hỗ trợ cộng đồng của Apple, nhiều người dùng iPhone cho biết smartphone của họ không nhận được thông báo bằng văn bản hoặc âm thanh khi SMS đến. Số khác thừa nhận thiết bị của họ không hiển thị icon trên màn hình mà chỉ nhận được tin nhắn khi truy cập vào trong ứng dụng.
+Nghiêm trọng hơn, một số thiết bị không thể gửi hoặc nhận tin nhắn nhưng không có nội dung bên trong. Tình trạng này xuất hiện chủ yếu trên những thiết bị chạy iOS 14.
+"Công việc của tôi phải nhận rất nhiều tin mỗi ngày, nhưng gần đây, tôi bỏ lỡ nhiều thông tin từ đối tác. Tôi đang dành thêm thời gian để mở ứng dụng nhắn tin liên tục. Thật phiền phức", tài khoản Twitter có tên Jollie cho biết. "Tin nhắn đến nhưng không có âm thông báo, nhất là từ những người gửi từ thiết bị Android. Tôi phải luôn để ý chiếc iPhone 12 của mình liên tục mỗi khi nó rung", tài khoản JohnnyH24 viết trên trang Hỗ trợ cộng đồng của Apple.
+Ngoài ứng dụng nhắn tin mặc định của Apple, vấn đề đang ảnh hưởng đến một số ứng dụng nhắn tin của bên thứ ba trên iOS như Signal và WhatsApp.
+Hiện chưa có cách xử lý triệt để. Một người dùng iPhone 11 Pro chạy iOS 14.2 cho biết, sự cố biến mất khi anh tắt thông báo tin nhắn trên Apple Watch. Một số người khác cũng thừa nhận iPhone của họ có thể nhận tin nhắn trở lại như bình thường khi ngắt kết nối khỏi Apple Watch.
+Apple chưa bình luận gì. Thông thường, hãng sẽ âm thầm khắc phục bằng bản cập nhật iOS mới.
+Tại Việt Nam, sự cố tin nhắn tương tự trên iPhone chưa được ghi nhận.
+Đây là lần thứ ba trong năm iPhone gặp sự cố về tin nhắn. Hồi đầu năm, nhiều trang công nghệ cảnh báo iPhone, iPad, thậm chí cả máy tính Mac, sẽ bị treo nếu nhận tin nhắn có chứa ký tự đặc biệt. Gần nhất, nhiều người dùng iPhone mới cũng đã phản ánh việc họ không nhận được SMS từ bạn bè, tin nhắn trong hội nhóm, hoặc không nhận được thông báo về tin nhắn văn bản.
+Bảo Lâm (theo Phonearena)
