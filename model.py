@@ -1,3 +1,6 @@
+import json
+
+
 def classific(path):
     # Read file and convert into list
 
@@ -13,38 +16,45 @@ def classific(path):
                   "oto-xe-may", "phap-luat", "so-hoa", "suc-khoe", "the-gioi", "the-thao", "thoi-su"]
     # print(len(categories))
     tudien_tongquat = {}
-    for i in range(0, len(categories)):
-        # print(categories[i])
-        tmp = categories[i]
-        link = "d:/HK2N4/LapTrinhMangNC/crawl/"+tmp+"/aNounList.txt"
-        g = open(link, "r")
-        l1 = g.read()
-        l1 = l1.replace("{", "")
-        l1 = l1.replace("}", "")
-        l1 = l1.split(",")
-        tudien = {}
-        for p in l1:
-            tmp = p.split(":")
-            tudien[tmp[0]] = int(tmp[1])
-        dem = 0
-        tong = 0
-        dem = 0
-        tbc = 0
-        # print(tudien)
-        for p in tudien:
-            tong = tong + tudien[p]
-        tbc = tong // len(tudien)
-        # print(len(tudien))
-        selected = []
-        selected_tudien = {}
-        for p in tudien:
-            if(tudien[p] >= tbc):
-                selected.append(p)
-                selected_tudien[p] = tudien[p]
-        # print(len(selected))
-        tudien_tongquat[categories[i]] = selected
-        # print(selected_tudien)
+    try:
+        with open('./TuDienTongQuat.txt', 'r') as f:
+            tudien_tongquat = json.loads(f.read())
+    except:
+        if len(tudien_tongquat) == 0:
+            for i in range(0, len(categories)):
+                # print(categories[i])
+                tmp = categories[i]
+                link = "d:/HK2N4/LapTrinhMangNC/crawl/"+tmp+"/aNounList.txt"
+                g = open(link, "r")
+                l1 = g.read()
+                l1 = l1.replace("{", "")
+                l1 = l1.replace("}", "")
+                l1 = l1.split(",")
+                tudien = {}
+                for p in l1:
+                    tmp = p.split(":")
+                    tudien[tmp[0]] = int(tmp[1])
+                dem = 0
+                tong = 0
+                dem = 0
+                tbc = 0
+                # print(tudien)
+                for p in tudien:
+                    tong = tong + tudien[p]
+                tbc = tong // len(tudien)
+                # print(len(tudien))
+                selected = []
+                selected_tudien = {}
+                for p in tudien:
+                    if(tudien[p] >= tbc):
+                        selected.append(p)
+                        selected_tudien[p] = tudien[p]
+                # print(len(selected))
+                tudien_tongquat[categories[i]] = selected
+                # print(selected_tudien)
 
+            with open("./TuDienTongQuat.txt", 'w') as f:
+                f.write(json.dumps(tudien_tongquat))
         # print("--------------------------")
     # Kiem tra do tuong quan cua Noun giua hai categories
 
@@ -109,9 +119,13 @@ def classific(path):
     tong_sum = 2*matdo[categories[vt_]]-matdo[categories[vt1_]]
     tile1 = float(matdo[categories[vt_]]/tong_sum)
     tile2 = float(1-tile1)
+    res = ''
     if(vt1_ != -1):
-        print('{0}_{1} {2}_{3}'.format(categories[vt_], tile1*100,
-                                       categories[vt1_], tile2*100))
+        res = '{0}_{1} {2}_{3}'.format(categories[vt_], tile1*100,
+                                       categories[vt1_], tile2*100)
+        print(res)
     else:
-        print('{0}_{1}'.format(
-            categories[vt_], tile1*100))
+        res = '{0}_{1}'.format(
+            categories[vt_], tile1*100)
+        print(res)
+    return res
