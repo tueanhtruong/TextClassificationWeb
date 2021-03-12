@@ -12,13 +12,15 @@ def textFromUrl(url):
 
 
 if __name__ == "__main__":
-    url = ''
+    urls = []
     try:
-        url = sys.argv[1]
+        urls = sys.argv[1:]
     except:
-        url = 'https://vnexpress.net/chay-xe-may-gan-300-km-h-tren-dai-lo-thang-long-4246995.html'
-
-    text = fromTextToList(textFromUrl(url))
-    with open("./runningFromTheHill.tok.txt", 'w') as f:
-        f.write(json.dumps(text))
-    classific("./runningFromTheHill.tok.txt")
+        if len(urls) == 0:
+            urls = [
+                'https://vnexpress.net/chay-xe-may-gan-300-km-h-tren-dai-lo-thang-long-4246995.html']
+    for url in urls:
+        text = fromTextToList(textFromUrl(url))
+        with open("./runningFromTheHill.tok.txt", 'w') as f:
+            f.write(json.dumps(text))
+        classific("./runningFromTheHill.tok.txt")

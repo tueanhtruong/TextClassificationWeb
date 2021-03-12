@@ -109,8 +109,9 @@ def classific(path):
     tong_sum = 2*matdo[categories[vt_]]-matdo[categories[vt1_]]
     tile1 = float(matdo[categories[vt_]]/tong_sum)
     tile2 = float(1-tile1)
-    print('{0} {1}'.format(
-        categories[vt_], tile1*100))
     if(vt1_ != -1):
-        print('{0} {1}'.format(
-            categories[vt1_], tile2*100))
+        print('{0}_{1} {2}_{3}'.format(categories[vt_], tile1*100,
+                                       categories[vt1_], tile2*100))
+    else:
+        print('{0}_{1}'.format(
+            categories[vt_], tile1*100))
