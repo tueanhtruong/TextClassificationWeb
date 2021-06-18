@@ -24,7 +24,7 @@ if __name__ == "__main__":
             text = fromTextToList(textFromUrl(url))
         except:
             text = fromTextToList(
-                'người yêu nhau chưa đến được với nhau thường sử dụng nốt ruồi chu sa trong lòng bàn tay nhau như một dấu hiệu của sự quen biết kiếp này để tiếp tục nối duyên kiếp sau')
+                'nguoi yeu anh cho em la sai')
         with open("./runningFromTheHill.tok.txt", 'w') as f:
             f.write(json.dumps(text))
         classific("./runningFromTheHill.tok.txt")
